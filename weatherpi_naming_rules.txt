@@ -1,0 +1,4 @@
+["Küche", "model=Ambientweather-F007TH", "channel=2"]
+["Bad", "model=Ambientweather-F007TH", "channel=1"]
+["Schaf", "model=Ambientweather-F007TH", "channel=4"]
+["3Zi", "model=Ambientweather-F007TH", "channel=3"]
